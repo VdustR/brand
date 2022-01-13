@@ -1,13 +1,9 @@
-Editors:
-
-- [LibreSprite](https://github.com/LibreSprite/LibreSprite)
-- [Gravit](https://designer.gravit.io)
-
-Palette: db32
-Font: [ark-pixel-12px-latin](https://github.com/TakWolf/ark-pixel-font)
-
-Converters:
-
-- [ConvertICO.com](https://convertico.com)
-- [text-to-svg](https://github.com/shrhdk/text-to-svg)
-- [pixel-perfect-svg](https://github.com/kagof/pixel-perfect-svg)
+- Editors:
+  - [LibreSprite](https://github.com/LibreSprite/LibreSprite)
+  - [Gravit](https://designer.gravit.io)
+- Palette: db32
+- Font: [ark-pixel-12px-latin](https://github.com/TakWolf/ark-pixel-font)
+- Converters:
+  - [ConvertICO.com](https://convertico.com)
+  - [text-to-svg](https://github.com/shrhdk/text-to-svg)
+  - [pixel-perfect-svg](https://github.com/kagof/pixel-perfect-svg)
